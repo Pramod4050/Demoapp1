@@ -1,1 +1,5 @@
 GitHub, Inc. is a provider of Internet hosting for software development and version control using Git. It offers the distributed version control and source code management functionality of Git, plus its own features. Wikipedia
+Steve Bourne wrote the Bourne shell which appeared in the Seventh Edition Bell Labs Research version of Unix.
+Many other shells have been written; this particular tutorial concentrates on the Bourne and the Bourne Again shells.
+Other shells include the Korn Shell (ksh), the C Shell (csh), and variations such as tcsh.
+This tutorial does not cover those shells.
